@@ -2,4 +2,9 @@
 
 lepetitiepilot
 
-all aerospace coding projects stored within here
+
+OpenFoam Simulations
+
+Ex: 1; Plane Engine
+
+F1 Design Sketches & Simulations
